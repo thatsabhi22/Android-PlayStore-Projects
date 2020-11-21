@@ -10,14 +10,11 @@
 and what not !
 
 * Mark your location on the map and keep for your remembrance.
-
+* Save locations offline using location and sync when online.
 * Select Multiple locations you have been to and get displayed on the map.
-
 * A Simple interface you can use the app very smoothly.
-
 * The map animations are simple cool.
-
-* Geotrails integrated Google Maps for marking ge
+* Geotrails integrated Google Maps for marking geolocations
 
 The App Uses Following native and 3rd party libraries
 - Facebook Authentication
