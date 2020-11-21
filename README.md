@@ -116,5 +116,5 @@ Tags: breaking news, national news, international news, local news, current news
 
 ### Screenshots
 ---
-<img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/1.png" width="30%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/2.png" width="30%"/> <img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/3.png" width="30%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/4.png" width="30%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/5.png" width="30%"/>
+<img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/1.png" width="35%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/2.png" width="35%"/> <img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/3.png" width="35%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/4.png" width="35%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/5.png" width="35%"/>
 
