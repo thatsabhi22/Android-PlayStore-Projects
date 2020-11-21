@@ -97,3 +97,24 @@ Tags: breaking news, national news, international news, local news, current news
 ### Screenshots
 ---
 <img src="https://github.com/thatsabhi22/newsaffair/blob/master/Screenshots/1.png" width="35%"/><img src="https://github.com/thatsabhi22/newsaffair/blob/master/Screenshots/2.png" width="35%"/> <img src="https://github.com/thatsabhi22/newsaffair/blob/master/Screenshots/3.png" width="35%"/><img src="https://github.com/thatsabhi22/newsaffair/blob/master/Screenshots/4.png" width="35%"/>
+
+&nbsp;&nbsp;
+## 4. [Feather Notes](https://github.com/thatsabhi22/feathernotes)
+
+<image align="right" src="https://github.com/thatsabhi22/feathernotes/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/feathernotes) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/feathernotes)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/feathernotes?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/feathernotes?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+
+**Feather Notes** : A Passcode protected Note-making app
+
+- Feel the lightness in the your note taking experience with feather notes.
+- Keep your notes safe with passcode protection to open the app.
+- Take notes hassle free.
+- Star the notes you feel important ones.
+- Tap a note and you can edit it instantly.
+- Delete a note with a long press on the saved note
+
+### Screenshots
+---
+<img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/1.png" width="30%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/2.png" width="30%"/> <img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/3.png" width="30%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/4.png" width="30%"/><img src="https://github.com/thatsabhi22/feathernotes/blob/master/Screenshots/5.png" width="30%"/>
+
