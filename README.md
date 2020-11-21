@@ -4,7 +4,7 @@
 
 <image align="right" src="https://github.com/thatsabhi22/geotrails/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/geotrails) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/geotrails)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/geotrails?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/geotrails?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/geotrails) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/geotrails)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/geotrails?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/geotrails?style=social)  ![Minimum API level](https://img.shields.io/badge/API-16+-yellow)
 
 **Geotrails** is the Geo-tagging app which is the very useful app for travellers, explorers, backpackers, surveyors, trekkers 
 and what not !
@@ -41,7 +41,7 @@ The App uses the Real-time Database hosted on Cloud based Mobile Backend -
 
 <image align="right" src="https://github.com/thatsabhi22/shopnick/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/shopnick) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/shopnick)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/shopnick?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/shopnick?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/shopnick) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/shopnick)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/shopnick?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/shopnick?style=social)  ![Minimum API level](https://img.shields.io/badge/API-15+-yellow)
 
 
 **Shopnick** : One Stop Online fashion destination in Mobile app
@@ -71,7 +71,7 @@ The App uses the Real-time Database hosted on Cloud based Mobile Backend -
 
 <image align="right" src="https://github.com/thatsabhi22/newsaffair/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/newsaffair) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/newsaffair)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/newsaffair?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/newsaffair?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/newsaffair) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/newsaffair)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/newsaffair?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/newsaffair?style=social)  ![Minimum API level](https://img.shields.io/badge/API-16+-yellow)
 
 **News Affair** app is designed keeping in mind those who are constantly on the go and are required to keep up with all local and international news. Download now and keep in touch with all current breaking news stories!
 
@@ -103,7 +103,7 @@ Tags: breaking news, national news, international news, local news, current news
 
 <image align="right" src="https://github.com/thatsabhi22/feathernotes/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/feathernotes) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/feathernotes)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/feathernotes?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/feathernotes?style=social)  ![Minimum API level](https://img.shields.io/badge/API-21+-yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thatsabhi22/feathernotes) ![GitHub repo size](https://img.shields.io/github/repo-size/thatsabhi22/feathernotes)![GitHub stars](https://img.shields.io/github/stars/thatsabhi22/feathernotes?style=social)  ![GitHub forks](https://img.shields.io/github/forks/thatsabhi22/feathernotes?style=social)  ![Minimum API level](https://img.shields.io/badge/API-15+-yellow)
 
 **Feather Notes** : A Passcode protected Note-making app
 
