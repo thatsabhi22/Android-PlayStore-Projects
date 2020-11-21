@@ -66,6 +66,7 @@ The App uses the Real-time Database hosted on Cloud based Mobile Backend -
 ---
 <img src="https://github.com/thatsabhi22/shopnick/blob/master/Screenshots/1.png" width="35%"/><img src="https://github.com/thatsabhi22/shopnick/blob/master/Screenshots/2.png" width="35%"/> <img src="https://github.com/thatsabhi22/shopnick/blob/master/Screenshots/3.png" width="35%"/><img src="https://github.com/thatsabhi22/shopnick/blob/master/Screenshots/4.png" width="35%"/><img src="https://github.com/thatsabhi22/shopnick/blob/master/Screenshots/5.png" width="35%"/><img src="https://github.com/thatsabhi22/shopnick/blob/master/Screenshots/6.png" width="35%"/><img src="https://github.com/thatsabhi22/shopnick/blob/master/Screenshots/7.png" width="35%"/>
 
+&nbsp;&nbsp;
 ## 3. [News Affair - Daily News App](https://github.com/thatsabhi22/newsaffair)
 
 <image align="right" src="https://github.com/thatsabhi22/newsaffair/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="25%"/>
